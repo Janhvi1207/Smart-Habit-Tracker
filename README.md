@@ -34,9 +34,9 @@ pip install -r requirements.txt
 python habit_analysis.py
 
 📈 Output
-- Habit completion rate (percentage)
-- Average time spent per habit
-- Automatically generated insights file
+- Habit completion rate bar chart
+- Average time spent per habit bar chart
+- Automatically generated insights.txt file
 
 🚀 Future Enhancements
 - Add visual dashboards
